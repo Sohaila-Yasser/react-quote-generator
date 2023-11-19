@@ -1,0 +1,36 @@
+#quote-box {
+  margin: auto;
+  width: 60%;
+  height: 8rem;
+  text-align: center;
+  margin-top: 4rem;
+}
+
+#text {
+  color: white;
+  font-size: 3rem;
+  font-weight: 1000;
+  font-family: "Sofia", sans-serif;
+}
+
+body {
+  background: url("https://mbsc.ie/wp-content/uploads/2016/08/sea-wallpaper-10314-10681-hd-wallpapers.jpg")
+    no-repeat center center/cover;
+  justify-content: center;
+  min-height: 100vh;
+}
+
+#author {
+  font-size: 2rem;
+  font-family: "Sofia", sans-serif;
+}
+
+.button {
+  background: white;
+  width: 3rem;
+  height: 3rem;
+  border: none;
+  color: #79a3e8;
+  border-radius: 4px;
+  opacity: 0.8;
+}
